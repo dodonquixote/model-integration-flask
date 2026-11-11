@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+opencv-python
+numpy
+tensorflow
+gunicorn
+opencv-python-headless==4.9.0.80
